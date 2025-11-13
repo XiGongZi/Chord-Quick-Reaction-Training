@@ -29,6 +29,14 @@ AIGC content still has significant limitations...
 
 ## Development Roadmap
 
+### base learning 
+
+- [ ] (simple-notation)[https://github.com/Encaik/simple-notation]
+- [ ] (d-music)[https://github.com/dawenci/d-music]
+- [ ] (buitor)[https://github.com/Barba828/buitar]
+- [ ] (tonejs)[https://github.com/Tonejs/Tone.js]
+
+
 ### Chord Generation Features
 - [ ] Input note names to return common chord tables
 
